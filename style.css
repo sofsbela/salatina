@@ -45,12 +45,12 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 200px;
-  padding: 0 40px 0 15px;
+  padding: 0 65px 0 50px;
 }
 
 .header-bg .nav img {
   width: 310px;
-  height: 110px;
+  height: 120px;
 }
 
 .header-bg .nav a {
@@ -79,12 +79,9 @@ body {
 
 .container-about {
   width: 100%;
-  height: 210px;
-}
-
-.container-about {
+  height: 150px;
   padding: 0 200px;
-  margin: 100px auto;
+  margin: 100px auto 40px;
 }
 
 .container-about p {
